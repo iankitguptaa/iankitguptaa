@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 MCA student passionate about web development<br>🌱 Learning Full-Stack Development<br>👯 Open to collaborations & open-source<br>💬 Ask me about Java, Web Dev & Git<br>⚡ Code + Coffee = Productivity ☕💻
+🔭 MCA student passionate about web development<br>👯 Open to collaborations & open-source<br>💬 Ask me about Java, Web Dev & Git<br>⚡ Code + Coffee = Productivity ☕💻
 
 
 ## 🌐 Socials:
