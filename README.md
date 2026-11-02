@@ -6,7 +6,7 @@
 ![ID](./assets/id-dashboard.svg?v=4)
 ![Connect](./assets/connect.svg?v=4)
 
-**[LinkedIn](https://www.linkedin.com/in/ankit-kumar-gupta04/)** &nbsp;·&nbsp; **[Instagram](https://instagram.com/theankitguptaa)** &nbsp;·&nbsp; **[GitHub](https://github.com/iankitguptaa)** &nbsp;·&nbsp; **[Portfolio](https://ankit-portfolio-three-woad.vercel.app/)**
+**[LinkedIn](https://www.linkedin.com/in/ankit-kumar-gupta04/)** &nbsp;·&nbsp; **[Instagram](https://instagram.com/theankitguptaa)** &nbsp;·&nbsp; **[GitHub](https://github.com/iankitguptaa)** &nbsp;·&nbsp; **[Portfolio](https://ankit-personal-portfolio.vercel.app/)**
 
 </div>
 
