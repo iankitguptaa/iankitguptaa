@@ -1,9 +1,9 @@
 <div align="center">
 
-![Intro](./assets/hero.svg?v=4)
+![Intro](./assets/hero.svg?v=20261103)
 ![About](./assets/about-life.svg?v=4)
 ![Stack](./assets/stack.svg?v=4)
-![ID](./assets/id-dashboard.svg?v=4)
+![ID](./assets/id-dashboard.svg?v=20261103)
 ![Connect](./assets/connect.svg?v=4)
 
 **[LinkedIn](https://www.linkedin.com/in/ankit-kumar-gupta04/)** &nbsp;·&nbsp; **[Instagram](https://instagram.com/theankitguptaa)** &nbsp;·&nbsp; **[GitHub](https://github.com/iankitguptaa)** &nbsp;·&nbsp; **[Portfolio](https://ankit-personal-portfolio.vercel.app/)**
